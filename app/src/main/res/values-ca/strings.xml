@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Principal</string>
+    <string name="error_div_zero">No es pot dividir per zero</string>
+    <string name="clear">C</string>
+    <string name="op_add">+</string>
+    <string name="op_sub">-</string>
+    <string name="op_mul">*</string>
+    <string name="op_div">/</string>
+    <string name="res_equal">=</string>
+</resources>
